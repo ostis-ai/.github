@@ -17,4 +17,6 @@ technologies for designing various classes of ostis systems, providing automatio
 negotiable intellectual computer systems, named The OSTIS Standard and writing in the form of sources of wide-ranging, consistent and extensible 
 knowledge base of subject areas and ontologies;
 - The Intelligent MetaSystem, based the OSTIS Technology, to automate designing and manufacturing, operation and reengineering ostis-systems, 
-named IMS-ostis, that includes the OSTIS Standard knowldge base;
+named IMS-ostis, that includes the OSTIS Standard knowldge base.
+
+***From data science to knowledge science!***
