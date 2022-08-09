@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=ostis-ai)
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjSsaMx_DmA_LEnG4Rzadpw)
 
 # The OSTIS Technology project
 
@@ -21,3 +20,5 @@ knowledge base of subject areas and ontologies;
 named IMS-ostis, that includes the OSTIS Standard knowldge base.
 
 ***From data science to knowledge science!***
+
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjSsaMx_DmA_LEnG4Rzadpw)
