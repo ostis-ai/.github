@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ostis-ai)
-![https://www.youtube.com/channel/UCjSsaMx_DmA_LEnG4Rzadpw](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjSsaMx_DmA_LEnG4Rzadpw)
 
 # The OSTIS Technology project
 
