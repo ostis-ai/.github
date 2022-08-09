@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ostis-ai)
+
 # The OSTIS Technology project
 
 The OSTIS project is focused on the development of intelligent computer systems with a high level of intelligence and a high level of socialization. 
