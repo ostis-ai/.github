@@ -18,3 +18,5 @@ negotiable intellectual computer systems, named The OSTIS Standard and writing i
 knowledge base of subject areas and ontologies;
 - The Intelligent MetaSystem, based the OSTIS Technology, to automate designing and manufacturing, operation and reengineering ostis-systems, 
 named IMS-ostis, that includes the OSTIS Standard knowldge base;
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ostis-ai&theme=blue-green
