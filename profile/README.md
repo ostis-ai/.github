@@ -10,7 +10,7 @@
 **Intelligent system** is not a system that is able to solve a specific problem, but a system that can easily learn how to solve new problems without significant costs.
 
 To create an intelligent system, we need to integrate various types of knowledge and various problem-solving models and use intelligent interfaces, since it's unknown which set of models and knowledge will be necessary to solve a specific class of problems.
-<p>
+<p align="center">
 <table>
   <tr>
     <td>Various types of knowledge</td>
@@ -69,7 +69,9 @@ SC-code features:
 - You can use the SC-code to represent not only the knowledge of the system but also the problem-solving models and system interface.
 - The SC-code is abstract language and can be visualized in different forms. Currently, there are several forms of the SC-code: SCg-, SCn-, SCs-code.
 
-![Simple logic rule in SCg](profile/scg-logic-rule.jpeg)
+<p align="center">
+  <img src="https://github.com/ostis-ai/.github/blob/main/profile/scg-logic-rule.jpeg?raw=true"/>
+</p>
 
 *Simple logic rule represented in the SCg-code: "If X is a bird, then X is an animal"*
 
