@@ -70,7 +70,7 @@ SC-code features:
 - The SC-code is abstract language and can be visualized in different forms. Currently, there are several forms of the SC-code: SCg-, SCn-, SCs-code.
 
 <p align="center">
-  ![Simple logic rule in SCg](profile/scg-logic-rule.jpeg)
+  <img src="https://github.com/ostis-ai/.github/blob/main/profile/scg-logic-rule.jpeg?raw=true"/>
 </p>
 
 *Simple logic rule represented in the SCg-code: "If X is a bird, then X is an animal"*
