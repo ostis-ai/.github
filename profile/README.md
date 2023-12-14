@@ -69,7 +69,7 @@ SC-code features:
 - You can use the SC-code to represent not only the knowledge of the system but also the problem-solving models and system interface.
 - The SC-code is abstract language and can be visualized in different forms. Currently, there are several forms of the SC-code: SCg-, SCn-, SCs-code.
 
-![Simple logic rule in SCg](scg-logic-rule.jpeg)
+![Simple logic rule in SCg](profile/scg-logic-rule.jpeg)
 
 *Simple logic rule represented in the SCg-code: "If X is a bird, then X is an animal"*
 
@@ -115,7 +115,7 @@ OSTIS is a way to solve the compatibility problem, one of the most important pro
     - [Python API client](https://github.com/ostis-ai/py-sc-client)
     - [TypeScript API client](https://github.com/ostis-ai/ts-sc-client)
     - [Software implementation of scp-machine](https://github.com/ostis-ai/scp-machine)
-    - [Software implementation of interpreter user interface sc-models](https://github.com/ostis-ai/sc-web)
+    - [Software implementation of interpreter of user interface sc-models](https://github.com/ostis-ai/sc-web)
     - [Component manager for ostis-systems](https://github.com/ostis-ai/sc-component-manager)
   - [Knowledge Base source Editor](https://github.com/ostis-ai/kbe)
   - [Plugin for Visual Studio code](https://github.com/ostis-dev/vs-code-ostis)
