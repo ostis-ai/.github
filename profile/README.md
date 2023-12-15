@@ -126,7 +126,7 @@ OSTIS is a way to solve the compatibility problem, one of the most important pro
 
 ## Fast start
 
-Go to [OSTIS Web-oriented software platform](https://github.com/ostis-ai/ostis-web-platform) and read README to father instructions.
+Go to [OSTIS Web-oriented software platform](https://github.com/ostis-ai/ostis-web-platform) and read README to further instructions.
 
 ## More information
 
