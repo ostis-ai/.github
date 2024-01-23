@@ -38,7 +38,7 @@ To create an intelligent system, we need to integrate various types of knowledge
     </td>
   </tr>
  </table>
-</p>
+</div>
 
 There are systems that partially solve the problem of such an integration (hybrid intelligent systems), but currently they have several disadvantages:
 
@@ -70,7 +70,7 @@ SC-code features:
 - The SC-code is abstract language and can be visualized in different forms. Currently, there are several forms of the SC-code: SCg-, SCn-, SCs-code.
 
 <p align="center">
-  <img src="https://github.com/ostis-ai/.github/blob/main/profile/scg-logic-rule.jpeg?raw=true"/>
+  <img src="scg_logic_rule.png"/>
 </p>
 
 *Simple logic rule represented in the SCg-code: "If X is a bird, then X is an animal"*
