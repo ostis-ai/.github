@@ -127,10 +127,3 @@ OSTIS is a way to solve the compatibility problem, one of the most important pro
 ## Fast start
 
 Go to [OSTIS Web-oriented software platform](https://github.com/ostis-ai/ostis-web-platform) and read README to further instructions.
-<!---
-## More information
-
-More about OSTIS you can read [here](https://libeldoc.bsuir.by/handle/123456789/51151).
-
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjSsaMx_DmA_LEnG4Rzadpw)
--->
