@@ -111,7 +111,7 @@ OSTIS is a way to solve the compatibility problem, one of the most important pro
 
 - [Basic tools for ostis-system development](https://github.com/ostis-ai)
   - [OSTIS Standard](https://github.com/ostis-ai/ostis-standard)
-  - [OSTIS Metasystem](https://github.com/ostis-ai/ims.ostis.kb)
+  - [OSTIS Metasystem](https://github.com/ostis-ai/ostis-metasystem)
   - [OSTIS Platform](https://github.com/ostis-ai/ostis-web-platform)
     - [Software implementation of sc-memory](https://github.com/ostis-ai/sc-machine)
     - [Python API client](https://github.com/ostis-ai/py-sc-client)
