@@ -123,7 +123,3 @@ OSTIS is a way to solve the compatibility problem, one of the most important pro
   - [Plugin for Visual Studio code](https://github.com/ostis-dev/vs-code-ostis)
 
 - [Applications built on top of the OSTIS Technology](https://github.com/ostis-apps)
-
-## Fast start
-
-Go to [OSTIS Web-oriented software platform](https://github.com/ostis-ai/ostis-web-platform) and read README to further instructions.
